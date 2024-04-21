@@ -1,5 +1,5 @@
 # Thesis on MQTT-SN Implementation in OMNeT++
-The repository contains resources related to my thesis work. In particular, the main PDF file provides a detailed description of the project.  Additional materials such as the presentation slides and the results discussed are also available. The related code can be found [here](https://github.com/taygumus/mqtt-sn-simulation).
+The repository contains resources related to my thesis work. In particular, the main PDF file provides a detailed description of the project.  Additional materials such as the presentation slides and the results discussed are also available. The related code can be found [here](https://github.com/taygumus/mqtt-sn).
 
 
 ## Abstract
